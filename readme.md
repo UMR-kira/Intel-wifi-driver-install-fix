@@ -147,7 +147,7 @@ DriverVersion : 24.60.0.3
 ## 脚本参数 / Parameters
 
 | 参数 / Parameter | 说明 / Description | 默认值 / Default |
-|------|------|--------|
+|-------|------|--------|
 | `-BundleGuid` | 指定单个 Bundle 的 ProductCode / Specify a single bundle ProductCode | 自动扫描 / auto-detect |
 | `-NameFilter` | 按卸载项显示名筛选（正则）/ Filter by display name (regex) | `Intel.*(Wi\|Wireless\|Software Installer\|WiFi)` |
 | `-LogPath` | 指定安装日志路径；留空自动读取最新主日志 / Log path; blank auto-picks latest non-elevated log | 自动 / auto |
